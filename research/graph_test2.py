@@ -72,3 +72,4 @@ G.add_edge('18', '20', weight=9)
 
 # save the graph in a file
 nx.write_gexf(G, 'dataset.gexf')
+
